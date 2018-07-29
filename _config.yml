@@ -73,13 +73,18 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-Anisina
+theme: hexo-theme-yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:wangliuyong/wangliuyong.github.io
+
+# 配置搜索功能
+search:
+  path: search.json
+  field: post
 
 
 jsonContent:
