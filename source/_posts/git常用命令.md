@@ -10,7 +10,7 @@ tags: git
 
 
 下面是我整理的常用 Git 命令清单。几个专用名词的译名如下。
-
+<!-- more -->
 >Workspace：工作区
 >Index / Stage：暂存区
 >Repository：仓库区（或本地仓库）
